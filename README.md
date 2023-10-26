@@ -1,2 +1,2 @@
 # java
-oop
+oops which is object oriented programming language
